@@ -120,6 +120,8 @@ common:
     url: https://go.qxo.com/qxoapi
   - type: Integrations
     url: https://www.qxo.com/integrations
+integrations:
+  - name: Commercial management
 maintainers:
   - FN: API Evangelist
     email: info@apievangelist.com
