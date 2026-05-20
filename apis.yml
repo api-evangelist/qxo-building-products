@@ -112,6 +112,8 @@ apis:
       - type: SignUp
         url: https://go.qxo.com/qxoapi
 common:
+  - type: LinkedIn
+    url: https://www.linkedin.com/company/qxoinc
   - type: Website
     url: https://www.qxo.com
   - type: Developer
