@@ -112,6 +112,8 @@ apis:
       - type: Signup
         url: https://go.qxo.com/qxoapi
 common:
+  - type: DomainSecurity
+    url: security/qxo-building-products-domain-security.yml
   - type: LinkedIn
     url: https://www.linkedin.com/company/qxoinc
   - type: Website
