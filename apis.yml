@@ -42,6 +42,10 @@ apis:
       deliveries within their own systems.
     humanURL: https://www.qxo.com/customapi
     tags:
+      - Order
+      - Ordering
+      - B2B
+    tags_raw:
       - Orders
       - Ordering
       - B2B
@@ -72,6 +76,10 @@ apis:
       addresses, contacts, and other account details.
     humanURL: https://www.qxo.com/customapi
     tags:
+      - Account
+      - Customers
+      - B2B
+    tags_raw:
       - Accounts
       - Customers
       - B2B
@@ -87,6 +95,10 @@ apis:
       availability across multiple product hierarchies.
     humanURL: https://www.qxo.com/customapi
     tags:
+      - Product
+      - Catalog
+      - Inventory
+    tags_raw:
       - Products
       - Catalog
       - Inventory
