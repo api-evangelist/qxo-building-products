@@ -148,6 +148,12 @@ apis:
       - type: Signup
         url: https://go.qxo.com/qxoapi
 common:
+  - type: Plans
+    url: plans/qxo-building-products-plans-pricing.yml
+  - type: RateLimits
+    url: rate-limits/qxo-building-products-rate-limits.yml
+  - type: FinOps
+    url: finops/qxo-building-products-finops.yml
   - type: DomainSecurity
     url: security/qxo-building-products-domain-security.yml
   - type: LinkedIn
