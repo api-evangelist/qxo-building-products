@@ -1,4 +1,4 @@
-# QXO Building Products (qxo-building-products)
+# QXO Building Products
 
 <!-- API-EVANGELIST-PROVENANCE:BEGIN -->
 > ### About this repository
@@ -66,118 +66,104 @@
 
 QXO is a publicly traded company focused on building a tech-forward leader in the building products distribution industry through acquisitions and operational improvements. QXO offers a suite of customer-facing APIs for ordering, pricing, account management, product catalog, delivery tracking, and invoicing.
 
-**URL:** [Visit APIs.json URL](https://raw.githubusercontent.com/api-evangelist/qxo-building-products/refs/heads/main/apis.yml)
+**Areas:** Building Products · Distribution · B2B · Construction · Fortune 500
 
-## Scope
+## QXO Building Products on APIs.io
 
-- **Type:** Contract
-- **Position:** Consuming
-- **Access:** 3rd-Party
+Everything profiled for QXO Building Products is published on APIs.io rather than in this repository. Start at the provider page — **[apis.io/providers/qxo-building-products/](https://apis.io/providers/qxo-building-products/)** — or go straight to one of the APIs or properties below.
 
-## Tags:
+### APIs (6)
 
- - Building Products, Distribution, B2B, Construction, Fortune 500
+- [QXO Order API](https://apis.io/apis/qxo-building-products/order-api/) — Enables customers to place material orders and track order status and deliveries within their own systems.
+- [QXO Pricing API](https://apis.io/apis/qxo-building-products/pricing-api/) — Provides real-time pricing information for single or multiple QXO products to simplify the process of generating estimates.
+- [QXO Account API](https://apis.io/apis/qxo-building-products/account-api/) — Provides access to customer account information including billing addresses, contacts, and other account details.
+- [QXO Product API](https://apis.io/apis/qxo-building-products/product-api/) — Browse the QXO product catalog to access product details and check availability across multiple product hierarchies.
+- [QXO Delivery Tracking API](https://apis.io/apis/qxo-building-products/delivery-tracking-api/) — Track material order status and receive delivery photos via email for project management.
+- [QXO Invoice API](https://apis.io/apis/qxo-building-products/invoice-api/) — Provides access to invoices, payment status, and financial information.
 
-## Timestamps
+### Published properties
 
-- **Created:** 2026-03-21
-- **Modified:** 2026-04-28
+Each property below is a page on APIs.io carrying the machine-readable artifact and what it says.
 
-## APIs
+#### Security (1)
 
-### QXO Order API
-Enables customers to place material orders and track order status and deliveries within their own systems.
+Authentication, trust centre, and vulnerability disclosure.
 
-**Human URL:** [https://www.qxo.com/customapi](https://www.qxo.com/customapi)
+- [Qxo Building Products Domain Security](https://apis.io/security/qxo-building-products/qxo-building-products-domain-security/)
 
-#### Tags:
+#### Plans and pricing (1)
 
- - Orders, Ordering, B2B
+Published plans, tiers and prices.
 
-#### Properties
+- [Qxo Building Products Plans Pricing](https://apis.io/plans/qxo-building-products/qxo-building-products-plans-pricing/)
 
-- [Documentation](https://www.qxo.com/customapi)
-- [SignUp](https://go.qxo.com/qxoapi)
+#### Rate limits (1)
 
-### QXO Pricing API
-Provides real-time pricing information for single or multiple QXO products to simplify the process of generating estimates.
+Published request limits.
 
-**Human URL:** [https://www.qxo.com/customapi](https://www.qxo.com/customapi)
+- [Qxo Building Products Rate Limits](https://apis.io/rate-limits/qxo-building-products/qxo-building-products-rate-limits/)
 
-#### Tags:
+#### FinOps (1)
 
- - Pricing, Estimates, B2B
+What the API costs to run, by operation.
 
-#### Properties
+- [Qxo Building Products Finops](https://apis.io/finops/qxo-building-products/qxo-building-products-finops/)
 
-- [Documentation](https://www.qxo.com/customapi)
-- [SignUp](https://go.qxo.com/qxoapi)
+## Where to find this API
 
-### QXO Account API
-Provides access to customer account information including billing addresses, contacts, and other account details.
-
-**Human URL:** [https://www.qxo.com/customapi](https://www.qxo.com/customapi)
-
-#### Tags:
-
- - Accounts, Customers, B2B
-
-#### Properties
-
-- [Documentation](https://www.qxo.com/customapi)
-- [SignUp](https://go.qxo.com/qxoapi)
-
-### QXO Product API
-Browse the QXO product catalog to access product details and check availability across multiple product hierarchies.
-
-**Human URL:** [https://www.qxo.com/customapi](https://www.qxo.com/customapi)
-
-#### Tags:
-
- - Products, Catalog, Inventory
-
-#### Properties
-
-- [Documentation](https://www.qxo.com/customapi)
-- [SignUp](https://go.qxo.com/qxoapi)
-
-### QXO Delivery Tracking API
-Track material order status and receive delivery photos via email for project management.
-
-**Human URL:** [https://www.qxo.com/customapi](https://www.qxo.com/customapi)
-
-#### Tags:
-
- - Delivery, Tracking, Logistics
-
-#### Properties
-
-- [Documentation](https://www.qxo.com/customapi)
-- [SignUp](https://go.qxo.com/qxoapi)
-
-### QXO Invoice API
-Provides access to invoices, payment status, and financial information.
-
-**Human URL:** [https://www.qxo.com/customapi](https://www.qxo.com/customapi)
-
-#### Tags:
-
- - Invoices, Billing, Payments
-
-#### Properties
-
-- [Documentation](https://www.qxo.com/customapi)
-- [SignUp](https://go.qxo.com/qxoapi)
-
-## Common Properties
+Links to the company's own pages. This repository publishes no copy of their specifications — the canonical document is theirs and lives at the URLs below.
 
 - [Website](https://www.qxo.com)
-- [Developer](https://www.qxo.com/customapi)
-- [SignUp](https://go.qxo.com/qxoapi)
-- [Integrations](https://www.qxo.com/integrations)
 
-## Maintainers
+## API Evangelist rating
 
-**FN:** API Evangelist
+**Kin Score 12.0** — emerging · rubric 0.24.0 · scored 2026-10-17
 
-**Email:** info@apievangelist.com
+| Facet | Score |
+|---|---|
+| Discoverability | 62.5 |
+| Contract quality | 0.0 |
+| Contract governance | 0.0 |
+| Operational transparency | 7.9 |
+| Developer ergonomics | 9.5 |
+| Access clarity | 21.1 |
+
+**Agent readiness 0.6** — human-only
+
+| Agent-readiness dimension | Result |
+|---|---|
+| Spec Presence | — |
+| Agentic Access | — |
+| Reversibility Documented | — |
+| MCP Server | — |
+| Auth Clarity | — |
+| Idempotency | — |
+| Error Semantics | — |
+| OpenAPI Examples | — |
+| Rate Limit Signal | derived (partial credit) |
+| Event Surface Described | — |
+| Agent Skills | — |
+| Well Known Catalog | — |
+| Consent Identity | — |
+| Agent Card | — |
+| Dry Run Mode | — |
+| Delegated Identity | — |
+| Protected Resource Metadata | — |
+| Dynamic Client Registration | — |
+| Agentic Commerce | — |
+
+**Regulatory alignment 5.9** — Horizontal (data, software, accessibility, platform)
+
+The rubric is published at [github.com/api-evangelist/kin-score](https://github.com/api-evangelist/kin-score). The per-check breakdown behind these numbers — which checks were earned, partial or missed — along with score history and how this provider compares to its peers, is available at [apis.io/providers/qxo-building-products/](https://apis.io/providers/qxo-building-products/).
+
+## How this profile is made
+
+API Evangelist profiles a company's public API surface the way a developer would find it: the website, developer portal and documentation, the specifications it publishes, its public repositories, and its pricing, status and changelog pages. From that it derives the properties above — contracts split per API, workflows, schemas, collections, governance rules, plans and rate limits — and scores them against the published [Kin Score rubric](https://github.com/api-evangelist/kin-score).
+
+The artifacts are published on [APIs.io](https://apis.io), not in this repository. This repository is the public record for QXO Building Products: the place to say something is wrong, missing or out of date, and to ask for a re-score or a removal.
+
+## Open an issue
+
+- **Something about this listing** — a wrong description, a missing API, a stale artifact or a question about the rating: [open an issue on this repository](https://github.com/api-evangelist/qxo-building-products/issues/new).
+- **A new API, or one that is not in the catalog yet** — [submit it on APIs.io](https://apis.io/add/).
+- **Anything else** — [the APIs.io inbox](https://github.com/api-search/inbox/issues/new) or [info@apievangelist.com](mailto:info@apievangelist.com).
